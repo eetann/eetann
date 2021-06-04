@@ -7,10 +7,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eetann&theme=gruvbox)
 
-<a href="https://github.com/eetann/mrsagasu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eetann&repo=mrsagasu&theme=gruvbox" />
+<a href="https://github.com/eetann/amazing-searcher">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eetann&repo=mrjimaku&theme=gruvbox" />
 </a>
 
-<a href="https://github.com/eetann/mrjimaku">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eetann&repo=mrjimaku&theme=gruvbox" />
+<a href="https://github.com/eetann/mrsagasu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eetann&repo=mrsagasu&theme=gruvbox" />
 </a>
