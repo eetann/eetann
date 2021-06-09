@@ -8,7 +8,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eetann&theme=gruvbox)
 
 <a href="https://github.com/eetann/amazing-searcher">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eetann&repo=mrjimaku&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eetann&repo=amazing-searcher&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/eetann/mrsagasu">
