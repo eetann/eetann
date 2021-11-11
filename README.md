@@ -11,6 +11,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eetann&repo=amazing-searcher&theme=gruvbox" />
 </a>
 
-<a href="https://github.com/eetann/mrsagasu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eetann&repo=mrsagasu&theme=gruvbox" />
+<a href="https://github.com/eetann/notion-tweaks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eetann&repo=notion-tweaks&theme=gruvbox" />
 </a>
