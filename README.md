@@ -10,3 +10,6 @@
 <a href="https://github.com/eetann/choomame">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eetann&repo=choomame&theme=gruvbox" />
 </a>
+<a href="https://github.com/eetann/mrsagasu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eetann&repo=mrsagasu&theme=gruvbox" />
+</a>
